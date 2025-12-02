@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "真生活",
+  "base_artist": "Kotoha",
+  "createdAt": "2025-12-02T10:18:15.134938Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真生活 - Shinseikatsu [Cover] (feat. Kakashi)",
+      "artist": "Kotoha",
+      "has_synced": true,
+      "path": "select/01_真生活_-_Shinseikatsu_[Cover]_(feat._Kakashi)_Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真生活 - Cover",
+      "artist": "Kotoha, 案山子",
+      "has_synced": true,
+      "path": "select/02_真生活_-_Cover_Kotoha,_案山子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真生活 (feat. 案山子) - Cover",
+      "artist": "Kotoha, 案山子",
+      "has_synced": true,
+      "path": "select/03_真生活_(feat._案山子)_-_Cover_Kotoha,_案山子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真生活 - Cover",
+      "artist": "Kotoha, 案山子",
+      "has_synced": false,
+      "path": "select/pl_01_真生活_-_Cover_Kotoha,_案山子.txt"
+    }
+  ]
+}
